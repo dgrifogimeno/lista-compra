@@ -1,0 +1,21 @@
+{
+  "name": "lista-compra",
+  "version": "1.0.0",
+  "description": "Test de una app de lista de la compra con React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgrifogimeno/lista-compra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dgrifogimeno/lista-compra/issues"
+  },
+  "homepage": "https://github.com/dgrifogimeno/lista-compra#readme"
+}
